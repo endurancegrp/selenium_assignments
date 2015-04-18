@@ -5,3 +5,5 @@ Assignment: Lowe's Website
 2.pick 1 from popular categories
 3.check 1 box under pricing and see if all products number match with the checkbox number.
 4.Check if same number of products displayed or no. 
+
+Run the above for all 3 browsers i..e IE, Chrome , Firefox.
